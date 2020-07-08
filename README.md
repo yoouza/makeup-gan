@@ -1,4 +1,4 @@
-# makeup with GAN
+# makeup_with_GAN
 
 > Cycle GAN을 활용한 메이크업 이미지 생성
 
